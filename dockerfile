@@ -1,3 +1,8 @@
-FROM python:3.11.15
+FROM python:3.12-slim
+RUN apt-get update && apt-get install -y git
 
-WORKDIR app/
+WORKDIR /app
+
+COPY requisitos.txt .
+
+RUN pip install --no-cache-dir -r requisitos.txt
