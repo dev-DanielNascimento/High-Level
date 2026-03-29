@@ -1,0 +1,5 @@
+services:
+  python_app: 
+    build: . #Constroi o docker file que esta no diretorio atual
+    volumes:
+      - .:/app # Faz com que a pasta do computador seja compartilhada para o container 
