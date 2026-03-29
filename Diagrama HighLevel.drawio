@@ -1,0 +1,44 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.2.5 Chrome/138.0.7204.251 Electron/37.6.1 Safari/537.36" version="28.2.5">
+  <diagram name="Page-1" id="ICqIQgJNnMb20vZwdfUY">
+    <mxGraphModel dx="1111" dy="568" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="07Ixzk-R3tLT6l8ebTed-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XGNyFYztyyLiop2A1yME-1" target="07Ixzk-R3tLT6l8ebTed-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="CSV" tooltip="-Horas líquidas&#xa;-Data e hora&#xa;-Matéria" id="XGNyFYztyyLiop2A1yME-1">
+          <mxCell style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;" parent="1" vertex="1">
+            <mxGeometry x="140" y="160" width="60" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="XGNyFYztyyLiop2A1yME-4" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Docker.svg;" parent="1" vertex="1">
+          <mxGeometry x="240.12" y="290" width="91.77" height="75.25" as="geometry" />
+        </mxCell>
+        <mxCell id="XGNyFYztyyLiop2A1yME-5" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Chart.svg;" parent="1" vertex="1">
+          <mxGeometry x="770" y="470" width="50" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="XGNyFYztyyLiop2A1yME-8" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/CustomDomain.svg;" parent="1" vertex="1">
+          <mxGeometry x="690" y="240" width="50" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="XGNyFYztyyLiop2A1yME-9" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.evernote;fillColor=#3F3F3F" parent="1" vertex="1">
+          <mxGeometry x="380" y="162.4" width="63.4" height="75.2" as="geometry" />
+        </mxCell>
+        <mxCell id="07Ixzk-R3tLT6l8ebTed-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XGNyFYztyyLiop2A1yME-9" target="XGNyFYztyyLiop2A1yME-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="370" y="202" />
+              <mxPoint x="370" y="328" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="07Ixzk-R3tLT6l8ebTed-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="07Ixzk-R3tLT6l8ebTed-3" target="XGNyFYztyyLiop2A1yME-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="07Ixzk-R3tLT6l8ebTed-3" value="Limpeza com Python" style="shape=image;html=1;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=1;aspect=fixed;image=img/clipart/Gear_128x128.png" parent="1" vertex="1">
+          <mxGeometry x="260" y="169.5" width="52" height="61" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
